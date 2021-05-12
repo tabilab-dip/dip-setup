@@ -1,4 +1,5 @@
-export FEND_URL="test123.com"
-export BEND_URL="test124.com"
+export BASE_URL="lvh.me"
+export FEND_URL="lvh.me/demo"
+export BEND_URL="lvh.me/proxy"
 export MONGODB_DOCKER_TAG="mongo"
 export FLASK_SECRET_KEY="CHANGE-THIS!"
