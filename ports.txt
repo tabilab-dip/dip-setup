@@ -1,0 +1,4 @@
+tag, port
+demo-frontend, 3000
+backend-proxy, 5000
+mongodb, 27017
